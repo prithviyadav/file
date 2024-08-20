@@ -1,7 +1,6 @@
 # 🌐 **Connect and Code with Peercode**  
 **PeerCode** is a collaborative platform where friends can share coding problems, solve them in their unique ways, and engage in discussions. Join us to enhance your coding skills through peer collaboration and learning.
 
-![Peercode Screenshot](https://peer-code-rho.vercel.app/screenshot.png)
 
 ## 🚀 **Get Started**  
 Ready to take your coding skills to the next level? Join Peercode today and start collaborating with your peers! [Get Started](https://peer-code-rho.vercel.app)
@@ -27,7 +26,10 @@ Connect with friends, share coding challenges, and learn from diverse solutions.
 
 ---
 
+## 📸 **Screenshots**  
+Here are some screenshots from the Peercode platform to give you a glimpse of the user interface:
 
+[]
 
 ---
 
